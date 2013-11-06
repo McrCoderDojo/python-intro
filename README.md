@@ -1,1 +1,1 @@
-Project moved to https://github.com/bennuttall/python-intro
+Project moved to http://bennuttall.github.io/python-intro/
